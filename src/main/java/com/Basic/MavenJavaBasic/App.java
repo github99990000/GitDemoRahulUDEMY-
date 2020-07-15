@@ -1,4 +1,4 @@
-package com.Basic.MavenJavaBasic;
+package main.java.com.Basic.MavenJavaBasic;
 
 /**
  * Hello world!

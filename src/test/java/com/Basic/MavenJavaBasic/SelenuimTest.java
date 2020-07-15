@@ -1,4 +1,4 @@
-package com.Basic.MavenJavaBasic;
+package test.java.com.Basic.MavenJavaBasic;
 
 import org.testng.annotations.Test;
 
@@ -8,6 +8,7 @@ public class SelenuimTest {
 	public void browserAutomation()
 	{
 		System.out.println("browserAutomation");
+		System.out.println("first commit 111111");
 	}
 	
 	

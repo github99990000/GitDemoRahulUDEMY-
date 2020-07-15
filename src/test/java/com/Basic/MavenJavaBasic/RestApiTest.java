@@ -1,4 +1,4 @@
-package com.Basic.MavenJavaBasic;
+package test.java.com.Basic.MavenJavaBasic;
 
 import org.testng.annotations.Test;
 
@@ -9,6 +9,7 @@ public class RestApiTest {
 	public void Postjira()
 	{
 		System.out.println("Postjira");
+		System.out.println("first commit 22222");
 	}
 	
 	
